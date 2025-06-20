@@ -23,7 +23,7 @@
 
     .page {
       flex: 0 0 100vw; 
-      padding: 20px;
+      padding: 0px;
       box-sizing: border-box;
       display: flex;
       flex-direction: column;
