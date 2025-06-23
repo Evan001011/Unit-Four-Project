@@ -23,7 +23,7 @@
 
     .page {
       flex: 0 0 100vw; 
-      padding: 0px;
+      padding: 10px;
       box-sizing: border-box;
       display: flex;
       flex-direction: column;
@@ -41,7 +41,7 @@
 
     h1 {
       font-size: 3em;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
     }
 
     p {
